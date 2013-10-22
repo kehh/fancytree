@@ -1,0 +1,18 @@
+
+span.fancytree-icon {
+  position: relative;
+}
+span.fancytree-childcounter {
+  color:#800;
+/*  background:#8ee; */
+/*  border: 1px solid gray; */
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  min-width:10px;
+  height: 10px;
+  border-radius: 50%;
+  padding: 2px;
+  text-align: center;
+  font-size: 9px;
+}
